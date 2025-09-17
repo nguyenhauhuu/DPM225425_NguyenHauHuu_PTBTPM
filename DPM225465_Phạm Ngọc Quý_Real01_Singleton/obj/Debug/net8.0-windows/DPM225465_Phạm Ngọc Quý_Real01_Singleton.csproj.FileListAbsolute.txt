@@ -1,0 +1,16 @@
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.exe
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.deps.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.runtimeconfig.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm_Ngọc_Quý_Real01_Singleton.Form1.resources
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.csproj.GenerateResource.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.AssemblyInfoInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.AssemblyInfo.cs
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.csproj.CoreCompileInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\refint\DPM225465_Phạm Ngọc Quý_Real01_Singleton.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Singleton.genruntimeconfig.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Singleton\obj\Debug\net8.0-windows\ref\DPM225465_Phạm Ngọc Quý_Real01_Singleton.dll

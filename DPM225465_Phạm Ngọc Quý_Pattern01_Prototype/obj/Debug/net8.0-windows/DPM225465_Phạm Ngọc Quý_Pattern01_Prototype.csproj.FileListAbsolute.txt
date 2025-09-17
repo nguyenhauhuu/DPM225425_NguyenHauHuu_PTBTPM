@@ -1,0 +1,16 @@
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.exe
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.deps.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.runtimeconfig.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm_Ngọc_Quý_Pattern01_Prototype.Form1.resources
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.csproj.GenerateResource.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.AssemblyInfoInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.AssemblyInfo.cs
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.csproj.CoreCompileInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\refint\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.genruntimeconfig.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype\obj\Debug\net8.0-windows\ref\DPM225465_Phạm Ngọc Quý_Pattern01_Prototype.dll

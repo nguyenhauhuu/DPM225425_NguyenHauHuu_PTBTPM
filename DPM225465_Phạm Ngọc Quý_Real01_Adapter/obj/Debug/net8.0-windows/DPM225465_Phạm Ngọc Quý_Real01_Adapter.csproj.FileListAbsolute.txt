@@ -1,0 +1,16 @@
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.exe
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.deps.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.runtimeconfig.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm_Ngọc_Quý_Real01_Adapter.Form1.resources
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.csproj.GenerateResource.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.AssemblyInfoInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.AssemblyInfo.cs
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.csproj.CoreCompileInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\refint\DPM225465_Phạm Ngọc Quý_Real01_Adapter.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Adapter.genruntimeconfig.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Adapter\obj\Debug\net8.0-windows\ref\DPM225465_Phạm Ngọc Quý_Real01_Adapter.dll

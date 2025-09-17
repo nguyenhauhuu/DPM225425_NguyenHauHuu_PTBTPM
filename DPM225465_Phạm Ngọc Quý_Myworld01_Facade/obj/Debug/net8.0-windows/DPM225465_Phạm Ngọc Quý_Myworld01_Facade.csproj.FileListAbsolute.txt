@@ -1,0 +1,16 @@
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.exe
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.deps.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.runtimeconfig.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm_Ngọc_Quý_Myworld01_Facade.Form1.resources
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.csproj.GenerateResource.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.AssemblyInfoInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.AssemblyInfo.cs
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.csproj.CoreCompileInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\refint\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.genruntimeconfig.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Facade\obj\Debug\net8.0-windows\ref\DPM225465_Phạm Ngọc Quý_Myworld01_Facade.dll

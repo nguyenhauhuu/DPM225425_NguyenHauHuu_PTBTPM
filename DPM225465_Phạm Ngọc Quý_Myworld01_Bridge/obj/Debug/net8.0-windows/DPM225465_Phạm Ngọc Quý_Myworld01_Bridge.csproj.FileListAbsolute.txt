@@ -1,0 +1,16 @@
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.exe
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.deps.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.runtimeconfig.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm_Ngọc_Quý_Myworld01_Bridge.Form1.resources
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.csproj.GenerateResource.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.AssemblyInfoInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.AssemblyInfo.cs
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.csproj.CoreCompileInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\refint\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.genruntimeconfig.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge\obj\Debug\net8.0-windows\ref\DPM225465_Phạm Ngọc Quý_Myworld01_Bridge.dll

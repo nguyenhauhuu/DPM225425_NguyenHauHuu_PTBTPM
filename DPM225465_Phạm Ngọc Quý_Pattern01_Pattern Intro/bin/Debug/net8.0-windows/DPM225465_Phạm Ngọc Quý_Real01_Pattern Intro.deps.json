@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DPM225465_Phạm Ngọc Quý_Real01_Pattern Intro/1.0.0": {
+        "runtime": {
+          "DPM225465_Phạm Ngọc Quý_Real01_Pattern Intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPM225465_Phạm Ngọc Quý_Real01_Pattern Intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

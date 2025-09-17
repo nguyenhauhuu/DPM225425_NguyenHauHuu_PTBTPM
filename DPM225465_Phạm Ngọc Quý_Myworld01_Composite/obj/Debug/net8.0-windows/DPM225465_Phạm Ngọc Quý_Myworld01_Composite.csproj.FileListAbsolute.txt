@@ -1,0 +1,16 @@
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.exe
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.deps.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.runtimeconfig.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm_Ngọc_Quý_Myworld01_Composite.Form1.resources
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.csproj.GenerateResource.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.AssemblyInfoInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.AssemblyInfo.cs
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.csproj.CoreCompileInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\refint\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.genruntimeconfig.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Myworld01_Composite\obj\Debug\net8.0-windows\ref\DPM225465_Phạm Ngọc Quý_Myworld01_Composite.dll

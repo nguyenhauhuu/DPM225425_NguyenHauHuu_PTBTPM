@@ -1,0 +1,16 @@
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.exe
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.deps.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.runtimeconfig.json
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\bin\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm_Ngọc_Quý_Real01_Factory_Method.Form1.resources
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.csproj.GenerateResource.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.AssemblyInfoInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.AssemblyInfo.cs
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.csproj.CoreCompileInputs.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\refint\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.dll
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.pdb
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.genruntimeconfig.cache
+D:\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_PTBTPM\DPM225465_Phạm Ngọc Quý_Real01_Factory Method\obj\Debug\net8.0-windows\ref\DPM225465_Phạm Ngọc Quý_Real01_Factory Method.dll
