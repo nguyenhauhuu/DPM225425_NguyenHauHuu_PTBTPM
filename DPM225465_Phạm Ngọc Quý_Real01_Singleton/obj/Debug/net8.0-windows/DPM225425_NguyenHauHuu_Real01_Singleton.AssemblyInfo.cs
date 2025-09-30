@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DPM225425_NguyenHauHuu_Real01_Singleton")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+799bf2e526df4e922c97f93d72b62defae1099a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a91016d269ad1aab76f9e016b9f86e6e13fe22f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DPM225425_NguyenHauHuu_Real01_Singleton")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DPM225425_NguyenHauHuu_Real01_Singleton")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

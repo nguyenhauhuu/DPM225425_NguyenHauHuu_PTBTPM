@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Source\\Repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\DPM225425_NguyenHauHuu_Real01_Singleton.csproj": {}
+    "C:\\Users\\Admin\\source\\repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\DPM225425_NguyenHauHuu_Real01_Singleton.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Source\\Repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\DPM225425_NguyenHauHuu_Real01_Singleton.csproj": {
+    "C:\\Users\\Admin\\source\\repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\DPM225425_NguyenHauHuu_Real01_Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Source\\Repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\DPM225425_NguyenHauHuu_Real01_Singleton.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\DPM225425_NguyenHauHuu_Real01_Singleton.csproj",
         "projectName": "DPM225425_NguyenHauHuu_Real01_Singleton",
-        "projectPath": "C:\\Users\\Admin\\Source\\Repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\DPM225425_NguyenHauHuu_Real01_Singleton.csproj",
+        "projectPath": "C:\\Users\\Admin\\source\\repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\DPM225425_NguyenHauHuu_Real01_Singleton.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Source\\Repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\source\\repos\\PTBTPM\\DPM225465_Phạm Ngọc Quý_Real01_Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
